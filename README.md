@@ -1,4 +1,5 @@
 # image-resizing-private-r2
+without binding
 
 ```
 wrangler secret put ACCOUNT_ID
