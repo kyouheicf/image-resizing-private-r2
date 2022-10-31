@@ -1,4 +1,3 @@
-name = "image-resizing-test"
-main = "src/index.ts"
+name = "image-resizing-private-r2"
+main = "src/index.js"
 compatibility_date = "2022-10-31"
-account_id = ""
