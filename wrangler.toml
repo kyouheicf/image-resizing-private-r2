@@ -2,3 +2,4 @@ name = "image-resizing-private-r2"
 main = "src/index.js"
 compatibility_date = "2022-10-31"
 account_id = "xxx"
+route = { pattern = "example.org/test-image.jpeg", zone_name = "example.org" }
